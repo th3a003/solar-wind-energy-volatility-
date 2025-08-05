@@ -1,4 +1,4 @@
-# solar-wind-energy-volatility-
+# Solar Storms and UK Energy Prices: A Volatility Analysis
 This project explores whether geomagenetic disturbances from solar activity correlate with spikes in UK electricity prices. It applies time series analysis and correlation techniques using Python, and is part of an independant research initiative to investigate the impact of space weather on Earth's energy markets and price volatility. 
 
 ## Data Sources
